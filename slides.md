@@ -27,10 +27,14 @@ revealOptions:
 
 ## Communications  
 
-- PLATFORM
+
+- PLATFORM <img src="images/remind.png" style="float:right"/>
   - Remind 
 - Make sure you download the app
   -  Apple App or Google Play
+- Text code to join TCHS Boys Soccer group 
+
+
 
 
 ---
@@ -52,7 +56,7 @@ revealOptions:
 ## Fundraising
 
 - GOAL 
-  - Amount = $5,000 (GET ACTUAL FROM TEAM)
+  - Amount = $5,000
   - To fund soccer programs 
 - IDEAS
   - Discount cards
@@ -78,7 +82,7 @@ revealOptions:
 
 ---
 
-## Team Parents
+## Team Parents Committee
 - Members
   - Tiffany Brodbeck (626) 238-2011
   - Michael Lam (310) 463-9964
