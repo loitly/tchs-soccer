@@ -93,8 +93,8 @@ revealOptions:
 ## Save the Dates
 
 - PICTURE DAY
-  - Thursday, November 13th at 4:00 p.m.
-  - Backup (rain): Tuesday, November 18th at 4:00 p.m.
+  - Thursday, 11/13/2025 at 4:00 p.m.
+  - Backup (rain): Tuesday, 11/18/2025 at 4:00 p.m.
   - Team and individual pictures.
   - Banner for seniors.
 - TOURNAMENTS
