@@ -11,6 +11,6 @@ This starts a local server and opens any Markdown file as a reveal.js presentati
 
 
 
-reveal-md slides.md --static _site
+reveal-md slides.md --static docs
 
 Generate static content for publishing.

@@ -28,7 +28,7 @@ revealOptions:
 ## Communications  
 
 
-- PLATFORM <img src="images/remind.png" style="float:right"/>
+- PLATFORM <img src="images/remind.png" style="float:right;height:350px"/>
   - Remind 
 - Make sure you download the app
   -  Apple App or Google Play
