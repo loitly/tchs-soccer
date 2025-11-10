@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -11,96 +11,34 @@
     <link rel="stylesheet" href="./dist/theme/beige.css" id="theme" />
     <link rel="stylesheet" href="./css/highlight/base16/zenburn.css" />
 
-
   </head>
   <body>
     <div class="reveal">
-      <div class="slides"><section  data-markdown><script type="text/template">
-
-## TCHS Boys Soccer Varsity/JV 
-
-### Mandatory Parent's Meeting
-
-#### Thursday, October 12, 2023
-</script></section><section  data-markdown><script type="text/template">
-
-## Agenda
-
-- Communications 
-- Attires
-- Fundraising  
-- Save the Dates
-- Team Parents 
-</script></section><section  data-markdown><script type="text/template">
-
-## Communications  
-
-
-- PLATFORM <img src="images/remind.png" style="float:right"/>
-  - Remind 
-- Make sure you download the app
-  -  Apple App or Google Play
-- Text code to join TCHS Boys Soccer group 
-
-
-
-</script></section><section  data-markdown><script type="text/template">
-
-## Attires 
-
-- REQUIRED
-  - Polo (black)
-  - Practice jersey (green)
-- RECOMMENDED 
-  - Sweatshirt
-  - Socks (black/white)
-- Google form will be sent via Remind for size
-</script></section><section  data-markdown><script type="text/template">
-
-## Fundraising
-
-- GOAL 
-  - Amount = $5,000
-  - To fund soccer programs 
-- IDEAS
-  - Discount cards
-  - Donation page for boys to share with family and friends 
-  - Dine-in (i.e. Chipotle, Alex di Peppe's Italian Restaurant, etc.)
-  - Alumni game
-  - Goal shoot-out 
-</script></section><section  data-markdown><script type="text/template">
-
-## Save the Dates
-
-- PICTURE DAY
-  - Thursday, November 2nd 
-  - Team and individual pictures
-  - Banner for seniors
-- TOURNAMENTS
-  - Varsity - Wednesday, December 20th
-  - JV - TBD (During winter break)
-- BANQUET
-  - Varsity/JV - TBD (End of season)
-</script></section><section  data-markdown><script type="text/template">
-## Team Parents Committee
-- Members
-  - Tiffany Brodbeck (626) 238-2011
-  - Michael Lam (310) 463-9964
-  - Kristy Ma (818) 914-9753
-  - Marin Oronia (626) 374-3473
-- Want to help? Join the team! 
-
-
- 
+      <div class="slides">
+        <section data-markdown data-separator="\r?\n---\r?\n" data-separator-vertical="\r?\n----\r?\n">
+          <textarea data-template>
+            
 
 <style>
   p {
-      font-style: italic;
-      font-size: small;
+    font-style: italic;
+    font-size: .9em;
   }
   
   .reveal h4 {
       text-transform: unset;
+  }
+
+  .reveal section.left {
+    text-align: left;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+	margin: 0 1em !important;
+  }
+
+  .reveal section.small-text {
+    font-size: 0.7em;
+    line-height: 1.3;
   }
 
   .reveal .backgrounds {
@@ -108,10 +46,104 @@
       background-size: contain;
       opacity: 0.08;
   }
-</style></script></section></div>
+</style>
+
+
+
+
+## TCHS Boys Soccer Varsity/JV 
+
+### Mandatory Parents' Meeting  
+#### Monday, November 10, 2025
+
+<img src="images/tchs.png" style="height:200px"/>
+
+---
+
+
+## Agenda
+
+- Communications 
+- Uniform Care 
+- Game Recording
+- Fundraising  
+- Save the Dates
+- Team Parents 
+
+---
+
+
+## Communications  
+
+- Emails are sent on Sundays.
+- May create a ParentSquare.
+
+---
+
+
+## Uniform Care 
+
+- Machine wash only. 
+- No dryer.
+
+---
+
+## Game Recording
+- Need volunteers to record during game days.
+- Submit game recordings to the HUDL website.
+
+---
+
+
+## Fundraising
+
+- Family donations or Krispy Kreme fundraising. 
+- Family donations can be paid directly to Ramrodders, noting Boys Soccer.
+- Funds are used for team events, equipment, and subscriptions.
+
+---
+
+
+## Save the Dates
+
+- PICTURE DAY
+  - Thursday, November 13th at 4:00 p.m.
+  - Backup (rain): Tuesday, November 18th at 4:00 p.m.
+  - Team and individual pictures.
+  - Banner for seniors.
+- TOURNAMENTS
+  - TBD (during winter break)
+- BANQUET
+  - TBD (after spring break)
+
+---
+
+<section class="small-text left">
+
+### What We Do:
+<p> Work together to organize team events, fundraisers, and handle communications when needed. </p>
+
+### Team Managers — Varsity 
+  - Tiffany Brodbeck (626) 238-2011
+  - Kristen Castro (310) 749-3292
+  - Kristy Ma (818) 914-9753
+  - Marin Oronia (626) 374-3473
+  - Frances Scribner (626) 807-4604
+
+<p/>
+
+### Team Managers — JV
+  - Want to join?
+  - We still need more help — a great opportunity for freshmen parents to get involved!
+
+          </textarea>
+        </section>
+      </div>
     </div>
 
     <script src="./dist/reveal.js"></script>
+
+    <script src="./mermaid/dist/mermaid.min.js"></script>
 
     <script src="./plugin/markdown/markdown.js"></script>
     <script src="./plugin/highlight/highlight.js"></script>
@@ -140,6 +172,9 @@
         center: true,
         transition: 'default', // none/fade/slide/convex/concave/zoom
         slideNumber: true,
+        highlight: {
+          highlightOnLoad: false
+        },
         plugins: [
           RevealMarkdown,
           RevealHighlight,
@@ -152,12 +187,29 @@
       // options from URL query string
       var queryOptions = Reveal().getQueryHash() || {};
 
-      var options = extend(defaultOptions, {"transition":"convex"}, queryOptions);
+      var options = extend(defaultOptions, {"transition":"convex","_":["slides.md"],"static":"docs"}, queryOptions);
     </script>
 
 
     <script>
       Reveal.initialize(options);
+      Reveal.addEventListener('ready', function (event) {
+        const blocks = Reveal.getRevealElement().querySelectorAll('pre code:not(.mermaid)');
+        const hlp = Reveal.getPlugin('highlight');
+        blocks.forEach(hlp.highlightBlock);
+      });
+    </script>
+
+    <script>
+      const mermaidOptions = extend({ startOnLoad: false }, {});
+      mermaid.startOnLoad = false;
+      mermaid.initialize(mermaidOptions);
+      const cb = function (event) {
+        mermaid.init(mermaidOptions, '.stack.present > .present pre code.mermaid');
+        mermaid.init(mermaidOptions, '.slides > .present:not(.stack) pre code.mermaid');
+      }
+      Reveal.addEventListener('ready', cb);
+      Reveal.addEventListener('slidetransitionend', cb);
     </script>
   </body>
 </html>
