@@ -24,15 +24,14 @@ revealOptions:
   .reveal section.small-text {
     font-size: 0.7em;
     line-height: 1.3;
-
   }
+
   .reveal .backgrounds {
       background: url(images/tc.png) no-repeat center;
       background-size: contain;
       opacity: 0.08;
   }
 </style>
-
 
 
 ## TCHS Boys Soccer Varsity/JV 
@@ -49,6 +48,7 @@ revealOptions:
 
 - Communications 
 - Uniform Care 
+- Game Recording
 - Fundraising  
 - Save the Dates
 - Team Parents 
@@ -75,10 +75,19 @@ revealOptions:
 
 ---
 
+## Game Recording
+- Need volunteers to record during game day
+- Submit game recording to website HUDL
+
+
+---
+
 
 ## Fundraising
 
-- Krispy Kreme
+- Family donations or Krispy Kreme fundraising 
+- Family donations can be paid directly to Ramrodders noting for Boys Soccer
+- Funds are used for team's events, equipment, and subscription
 
 ---
 
@@ -91,10 +100,9 @@ revealOptions:
   - Team and individual pictures
   - Banner for seniors
 - TOURNAMENTS
-  - Varsity - Wednesday, December 20th
-  - JV - TBD (During winter break)
+  - TBD (During winter break)
 - BANQUET
-  - Varsity/JV - TBD (End of season)
+  - TBD (After Spring break)
 
 ---
 
@@ -114,8 +122,6 @@ revealOptions:
 
 ### Team Managers JV
   - Want to join?
-  - We still need help especially good opportunity for Freshmen’s parents to join the team
-
-
-
-
+  - We still need more help — a great opportunity for freshmen parents to get involved!
+  
+  
