@@ -1,0 +1,44 @@
+name: Build Reveal.js Slides
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'slides.md'
+      - 'images/**'
+      - '.github/workflows/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Cache npm dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install reveal-md
+        run: npm install -g reveal-md
+
+      - name: Build static slides
+        run: reveal-md slides.md --static docs
+
+      - name: Commit and push updated docs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --quiet && echo "No changes to commit" || (git commit -m "Auto-build slides" && git push)
+
