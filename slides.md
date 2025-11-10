@@ -104,7 +104,7 @@ revealOptions:
 
 ---
 
-<section class="small-text left">
+<!-- .element: class="small-text left" -->
 
 ### What We Do:
 <p> Work together to organize team events, fundraisers, and handle communications when needed. </p>
