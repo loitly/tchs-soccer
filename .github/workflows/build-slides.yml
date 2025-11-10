@@ -2,7 +2,7 @@ name: Build Reveal.js Slides
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
     paths:
       - 'slides.md'
       - 'images/**'
