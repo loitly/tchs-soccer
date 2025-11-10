@@ -40,5 +40,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs
-          git diff --quiet && echo "No changes to commit" || (git commit -m "Auto-build slides" && git push)
-
+          git commit -m "Auto-build slides" || echo "No changes to commit"
+          git push
