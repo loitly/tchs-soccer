@@ -5,11 +5,42 @@ revealOptions:
   transition: 'convex'
 ---
 
+<style>
+  p {
+    font-style: italic;
+    font-size: .9em;
+  }
+  
+  .reveal h4 {
+      text-transform: unset;
+  }
+
+  .reveal section.left {
+    text-align: left;
+    justify-content: flex-start !important;
+    align-items: flex-start !important;
+  }
+
+  .reveal section.small-text {
+    font-size: 0.7em;
+    line-height: 1.3;
+
+  }
+  .reveal .backgrounds {
+      background: url(images/tc.png) no-repeat center;
+      background-size: contain;
+      opacity: 0.08;
+  }
+</style>
+
+
+
 ## TCHS Boys Soccer Varsity/JV 
 
-### Mandatory Parent's Meeting
-
+### Mandatory Parent's Meeting  
 #### Monday, November 10, 2025
+
+<img src="images/tchs.png" style="height:200px"/>
 
 ---
 
@@ -17,7 +48,7 @@ revealOptions:
 ## Agenda
 
 - Communications 
-- Attires
+- Uniform Care 
 - Fundraising  
 - Save the Dates
 - Team Parents 
@@ -28,11 +59,8 @@ revealOptions:
 ## Communications  
 
 
-- PLATFORM <img src="images/remind.png" style="float:right;height:350px"/>
-  - Remind 
-- Make sure you download the app
-  -  Apple App or Google Play
-- Text code to join TCHS Boys Soccer group 
+- E-mails are sent on Sundays
+- May create a ParentSquare
 
 
 
@@ -40,30 +68,17 @@ revealOptions:
 ---
 
 
-## Attires 
+## Uniform Care 
 
-- REQUIRED
-  - Polo (black)
-  - Practice jersey (green)
-- RECOMMENDED 
-  - Sweatshirt
-  - Socks (black/white)
-- Google form will be sent via Remind for size
+- Machine wash only 
+- No dryer
 
 ---
 
 
 ## Fundraising
 
-- GOAL 
-  - Amount = $5,000
-  - To fund soccer programs 
-- IDEAS
-  - Discount cards
-  - Donation page for boys to share with family and friends 
-  - Dine-in (i.e. Chipotle, Alex di Peppe's Italian Restaurant, etc.)
-  - Alumni game
-  - Goal shoot-out 
+- Krispy Kreme
 
 ---
 
@@ -71,7 +86,8 @@ revealOptions:
 ## Save the Dates
 
 - PICTURE DAY
-  - Thursday, November 2nd 
+  - Thursday, November 13th at 4pm
+  - Backup(rain): Tuesday November 18th at 4:00pm
   - Team and individual pictures
   - Banner for seniors
 - TOURNAMENTS
@@ -81,33 +97,25 @@ revealOptions:
   - Varsity/JV - TBD (End of season)
 
 ---
+
+<section class="small-text left">
+
 ### What we do:
-- Work together to organize team events, fundraisers, and handle communications when needed
+<p> Work together to organize team events, fundraisers, and handle communications when needed </p>
 
 ### Team Managers Varsity 
-- Tiffany Brodbeck (626) 238-2011
-- Kristen Castro (310) 749-3292
-- Kristy Ma (818) 914-9753
-- Marin Oronia (626) 374-3473
-- Frances Scribner (626) 807-4604
+  - Tiffany Brodbeck (626) 238-2011
+  - Kristen Castro (310) 749-3292
+  - Kristy Ma (818) 914-9753
+  - Marin Oronia (626) 374-3473
+  - Frances Scribner (626) 807-4604
+
+<p/>
 
 ### Team Managers JV
-- Want to join?
-- We still need help especially good opportunity for Freshmen’s parents to join the team
+  - Want to join?
+  - We still need help especially good opportunity for Freshmen’s parents to join the team
 
-<style>
-  p {
-      font-style: italic;
-      font-size: small;
-  }
-  
-  .reveal h4 {
-      text-transform: unset;
-  }
 
-  .reveal .backgrounds {
-      background: url(images/tc.png) no-repeat center;
-      background-size: contain;
-      opacity: 0.08;
-  }
-</style>
+
+
