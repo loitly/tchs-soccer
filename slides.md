@@ -9,7 +9,7 @@ revealOptions:
 
 ### Mandatory Parent's Meeting
 
-#### Thursday, October 12, 2023
+#### Monday, November 10, 2025
 
 ---
 
@@ -81,17 +81,19 @@ revealOptions:
   - Varsity/JV - TBD (End of season)
 
 ---
+### What we do:
+- Work together to organize team events, fundraisers, and handle communications when needed
 
-## Team Parents Committee
-- Members
-  - Tiffany Brodbeck (626) 238-2011
-  - Michael Lam (310) 463-9964
-  - Kristy Ma (818) 914-9753
-  - Marin Oronia (626) 374-3473
-- Want to help? Join the team! 
+### Team Managers Varsity 
+- Tiffany Brodbeck (626) 238-2011
+- Kristen Castro (310) 749-3292
+- Kristy Ma (818) 914-9753
+- Marin Oronia (626) 374-3473
+- Frances Scribner (626) 807-4604
 
-
- 
+### Team Managers JV
+- Want to join?
+- We still need help especially good opportunity for Freshmen’s parents to join the team
 
 <style>
   p {
