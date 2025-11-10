@@ -61,31 +61,31 @@ revealOptions:
 
 ## Communications  
 
-- Emails are sent on Sundays.
-- May create a ParentSquare.
+- Emails are sent on Sundays
+- May create a ParentSquare
 
 ---
 
 
 ## Uniform Care 
 
-- Machine wash only. 
-- No dryer.
+- Machine wash only
+- No dryer
 
 ---
 
 ## Game Recording
-- Need volunteers to record during game days.
-- Submit game recordings to the HUDL website.
+- Need volunteers to record during game days
+- Submit game recordings to the HUDL website
 
 ---
 
 
 ## Fundraising
 
-- Family donations or Krispy Kreme fundraising. 
-- Family donations can be paid directly to Ramrodders, noting Boys Soccer.
-- Funds are used for team events, equipment, and subscriptions.
+- Family donations or Krispy Kreme fundraising
+- Family donations can be paid directly to Ramrodders, noting Boys Soccer
+- Funds are used for team events, equipment, and subscriptions
 
 ---
 
@@ -95,8 +95,8 @@ revealOptions:
 - PICTURE DAY
   - Thursday, 11/13/2025 at 4:00 p.m.
   - Backup (rain): Tuesday, 11/18/2025 at 4:00 p.m.
-  - Team and individual pictures.
-  - Banner for seniors.
+  - Team and individual pictures
+  - Banner for seniors
 - TOURNAMENTS
   - TBD (during winter break)
 - BANQUET
