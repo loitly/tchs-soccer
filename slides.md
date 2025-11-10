@@ -19,6 +19,7 @@ revealOptions:
     text-align: left;
     justify-content: flex-start !important;
     align-items: flex-start !important;
+	margin: 0 1em !important;
   }
 
   .reveal section.small-text {
@@ -34,9 +35,11 @@ revealOptions:
 </style>
 
 
+
+
 ## TCHS Boys Soccer Varsity/JV 
 
-### Mandatory Parent's Meeting  
+### Mandatory Parents' Meeting  
 #### Monday, November 10, 2025
 
 <img src="images/tchs.png" style="height:200px"/>
@@ -58,36 +61,31 @@ revealOptions:
 
 ## Communications  
 
-
-- E-mails are sent on Sundays
-- May create a ParentSquare
-
-
-
+- Emails are sent on Sundays.
+- May create a ParentSquare.
 
 ---
 
 
 ## Uniform Care 
 
-- Machine wash only 
-- No dryer
+- Machine wash only. 
+- No dryer.
 
 ---
 
 ## Game Recording
-- Need volunteers to record during game day
-- Submit game recording to website HUDL
-
+- Need volunteers to record during game days.
+- Submit game recordings to the HUDL website.
 
 ---
 
 
 ## Fundraising
 
-- Family donations or Krispy Kreme fundraising 
-- Family donations can be paid directly to Ramrodders noting for Boys Soccer
-- Funds are used for team's events, equipment, and subscription
+- Family donations or Krispy Kreme fundraising. 
+- Family donations can be paid directly to Ramrodders, noting Boys Soccer.
+- Funds are used for team events, equipment, and subscriptions.
 
 ---
 
@@ -95,23 +93,23 @@ revealOptions:
 ## Save the Dates
 
 - PICTURE DAY
-  - Thursday, November 13th at 4pm
-  - Backup(rain): Tuesday November 18th at 4:00pm
-  - Team and individual pictures
-  - Banner for seniors
+  - Thursday, November 13th at 4:00 p.m.
+  - Backup (rain): Tuesday, November 18th at 4:00 p.m.
+  - Team and individual pictures.
+  - Banner for seniors.
 - TOURNAMENTS
-  - TBD (During winter break)
+  - TBD (during winter break)
 - BANQUET
-  - TBD (After Spring break)
+  - TBD (after spring break)
 
 ---
 
 <section class="small-text left">
 
-### What we do:
-<p> Work together to organize team events, fundraisers, and handle communications when needed </p>
+### What We Do:
+<p> Work together to organize team events, fundraisers, and handle communications when needed. </p>
 
-### Team Managers Varsity 
+### Team Managers — Varsity 
   - Tiffany Brodbeck (626) 238-2011
   - Kristen Castro (310) 749-3292
   - Kristy Ma (818) 914-9753
@@ -120,8 +118,6 @@ revealOptions:
 
 <p/>
 
-### Team Managers JV
+### Team Managers — JV
   - Want to join?
   - We still need more help — a great opportunity for freshmen parents to get involved!
-  
-  
